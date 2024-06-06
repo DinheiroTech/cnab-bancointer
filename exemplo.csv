@@ -1,0 +1,2 @@
+identificacao,remessa,empresa_codigo,empresa_nome,sequencial_remessa,transacao_tipo,carteira,agencia,conta,controle,valor_titulo,numero_documento,data_vencimento,data_emissao,pagador_tipo_inscricao,pagador_numero_inscricao,pagador_nome,pagador_endereco,pagador_cep,pagador_cep_sufixo
+0,1,1234567890,EMPRESA EXEMPLO,000001,1,112,0001,123456,0,1000.00,000001,01062024,01052024,01,12345678901,CLIENTE EXEMPLO,RUA EXEMPLO,12345,678
